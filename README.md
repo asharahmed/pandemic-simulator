@@ -1,4 +1,4 @@
-# 🦠 Simple Pandemic Simulation using Genetic Algorithms
+# 🦠 Pandemic Simulation using Genetic Algorithms
 
 > **Note** 
 >
