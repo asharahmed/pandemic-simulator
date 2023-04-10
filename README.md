@@ -3,7 +3,7 @@
 > **Note** 
 >
 > **This program is for educational purposes only. It is not intended to be used for medical or scientific research.**
-<img src="https://github.com/asharahmed/pandemic-simulator/blob/main/newsrc.gif?raw=true" alt="alt text" width="50%">
+<img src="https://github.com/asharahmed/pandemic-simulator/blob/main/newsrc.gif?raw=true" alt="alt text" width="80%">
 
 
 
