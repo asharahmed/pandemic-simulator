@@ -14,8 +14,14 @@ This program simulates the spread of a pandemic using a genetic algorithm. The s
 The following parameters can be modified to customize the simulation:
 
 `POPULATION_SIZE`: The number of individuals in the population.
+
+
 `INFECTION_RATE`: The probability that an individual will become infected if exposed to the virus.
+
+
 `MUTATION_RATE`: The probability that an individual's genotype will mutate during reproduction.
+
+
 `GENERATIONS`: The number of generations to simulate.
 
 ## Visualization
