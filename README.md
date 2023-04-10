@@ -4,14 +4,16 @@
 >
 > **This program is for educational purposes only. It is not intended to be used for medical or scientific research.**
 
-<div style="text-align: center;">
 <style>
       img {
         display: block;
         margin: auto;
       }
-    </style>
-    
+ </style>
+
+<div style="text-align: center;">
+
+
 <img src="https://github.com/asharahmed/pandemic-simulator/blob/main/newsrc.gif?raw=true" alt="alt text" width="80%">
 </div>
 
