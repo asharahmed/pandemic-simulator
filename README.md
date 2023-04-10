@@ -4,7 +4,7 @@
 >
 > **This program is for educational purposes only. It is not intended to be used for medical or scientific research.**
 
-![alttxt](https://github.com/asharahmed/pandemic-simulation/blob/main/newsrc.gif?raw=true)
+![alttxt](https://github.com/asharahmed/pandemic-simulator/blob/main/newsrc.gif?raw=true)
 
 
 This program simulates the spread of a pandemic using a genetic algorithm. The simulation represents a population of individuals, each with a genotype and an infection status. The genotype is a real number between 0 and 1, and determines the individual's susceptibility to infection. The infection status is a Boolean value, where `True` represents an infected individual and `False` represents a healthy individual.
